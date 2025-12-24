@@ -1,0 +1,13 @@
+# PyTorch models
+*.pt
+*.pth
+
+# Virtual environments
+.venv/
+my_env/
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Dataset
+MedPix-2.0-main/
