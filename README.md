@@ -1,1 +1,0 @@
-# Medpix-2.0-Medical-Report-Generation-Using-Deep-Learning
