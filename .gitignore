@@ -5,9 +5,11 @@
 # Virtual environments
 .venv/
 my_env/
+torch_cuda/
 
 # Jupyter
 **/.ipynb_checkpoints/
 
 # Dataset
 MedPix-2.0-main/
+dataset/
